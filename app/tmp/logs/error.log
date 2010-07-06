@@ -1,0 +1,27 @@
+2010-05-06 15:13:46 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 22
+            [group_id] => 1
+            [username] => wisnu
+            [fullname] => Wisnu Manupraba
+            [email] => wisnu@javan.co.id
+            [created] => 2009-10-05 13:46:18
+            [modified] => 2009-10-05 13:46:18
+        )
+
+)
+
+Aco: Journal/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2010-05-06 15:13:46 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/user/internal/cake/basics.php:109) in [CORE/cake/libs/controller/controller.php, line 647]
+2010-05-17 08:17:00 Warning: Warning (2): array_keys() [<a href='http://php.net/function.array-keys'>function.array-keys</a>]: The first argument should be an array in [CORE/cake/libs/model/model.php, line 1528]
+2010-05-17 08:17:00 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/model.php, line 1580]
+2010-05-17 08:17:00 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/model.php, line 1606]
+2010-05-17 08:17:00 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/user/internal/cake/basics.php:109) in [CORE/cake/libs/controller/controller.php, line 647]
+2010-05-17 08:51:00 Warning: Warning (2): array_keys() [<a href='http://php.net/function.array-keys'>function.array-keys</a>]: The first argument should be an array in [CORE/cake/libs/model/model.php, line 1528]
+2010-05-17 08:51:00 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/model.php, line 1580]
+2010-05-17 08:51:00 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/model.php, line 1606]
+2010-05-17 08:51:00 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/user/internal/cake/basics.php:109) in [CORE/cake/libs/controller/controller.php, line 647]
+2010-05-31 12:24:00 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1062: Duplicate entry 'depreciation expense' for key 'nama'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 527]
